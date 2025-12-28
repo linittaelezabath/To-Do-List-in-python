@@ -12,7 +12,7 @@ Remove tasks by selecting their task number
 
 Simple and beginner-friendly console interface
 
-Technologies Used
+### Technologies Used
 
 Python (Core concepts)
 
@@ -28,7 +28,7 @@ Functions
 
 User input handling
 
-How to Run the Project
+### How to Run the Project
 
 Make sure Python is installed on your system.
 
@@ -40,14 +40,13 @@ Run the program using:
 
 python todo.py
 
-
 Follow the on-screen menu to manage your tasks.
 
-Use Case
+### Use Case
 
 This project is ideal for beginners who want to practice Python fundamentals and build a small real-world application using basic logic.
 
-Future Enhancements
+### Future Enhancements
 
 Save tasks to a file for permanent storage
 
@@ -55,6 +54,4 @@ Add task completion status
 
 Build a GUI or web-based version
 
-Author
 
-Created as a beginner Python practice project.
